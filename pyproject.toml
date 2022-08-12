@@ -7,6 +7,10 @@ authors = ["danczw <dev.dc@pm.me>"]
 repository = "https://github.com/danczw/secret_santa_script"
 keywords = ["secret", "santa", "christmas", "presents"]
 
+classifiers = [
+    "Development Status :: 3 - Alpha",
+]
+
 [tool.poetry.dependencies]
 python = "^3.9"
 numpy = "^1.23.1"
