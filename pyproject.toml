@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "secret_wichtel"
 version = "0.1.0"
-description = "Secret Santa script for your christmas pleasure."
+license = "MIT"
+description = "Secret Santa function for your christmas pleasure."
 authors = ["danczw <dev.dc@pm.me>"]
+repository = "https://github.com/danczw/secret_santa_script"
+keywords = ["secret", "santa", "christmas", "presents"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
