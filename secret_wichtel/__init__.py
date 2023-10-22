@@ -1,4 +1,4 @@
-from secret_wichtel.secret_wichtel import wichteln
+from secret_wichtel.secret_wichtel import main
 
-__version__ = '0.1.1'
-__all__ = ['secret_santa']
+__version__ = "0.2.0"
+__all__ = ["main"]
